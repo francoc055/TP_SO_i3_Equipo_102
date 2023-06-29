@@ -1,0 +1,3 @@
+a-Con todos los cambios que se realizaron en las distintas ramas creadas.
+b-Si, beta pudo ver todos los cambios realizados.
+c-git merge --allow-unrelated-histories Luna
