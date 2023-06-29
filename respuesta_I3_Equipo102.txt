@@ -1,3 +1,23 @@
 a-Con todos los cambios que se realizaron en las distintas ramas creadas.
 b-Si, beta pudo ver todos los cambios realizados.
 c-git merge --allow-unrelated-histories Luna
+d- no, se quedan con los datos del ultimo pull hecho
+e- al hacer el merge nos salto el error 
+   fatal: refusing to merge unrelated histories
+   y tuvimos que hacer un 
+   git merge --allow-unrelated-histories Luna
+f- 66  git checkout master
+   67  git pull origin master
+   68  git checkout Castañeda
+   69  git branch
+   70  git branch -a
+   71  git fetch
+   72  git branch -a
+   73  git checkout Castañeda
+   74  echo Jaco Luna >> beta.txt
+   75  ipconfig >> beta.txt
+   76  cat date >> beta.txt
+   77  date >> beta.txt
+   78  git add .
+   79  git commit -m "punto 7"
+   80  git push origin Castañeda
