@@ -21,3 +21,13 @@ f- 66  git checkout master
    78  git add .
    79  git commit -m "punto 7"
    80  git push origin Castañeda
+g- 
+git checkout master
+git pull
+git fetch
+git checkout Castañeda
+ipconfig >> beta.txt
+date >> beta.txt
+git add .
+git commit -m "punto 8"
+git push origin Castañeda
